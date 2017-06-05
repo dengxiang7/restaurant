@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk"/>
+	<classpathentry kind="lib" path="D:/c++视频教学/java工具/jdbc driver/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
